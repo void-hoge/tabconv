@@ -38,7 +38,7 @@ int main(int argc, char const *argv[]) {
   return 0;
 }
 $ tabconv -s 4 main.cpp spc.cpp
-$ cat main.cpp
+$ cat spc.cpp
 #include <iostream>
 
 int main(int argc, char const *argv[]) {
